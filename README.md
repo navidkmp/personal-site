@@ -32,4 +32,4 @@ Feel free to reach out if you'd like to connect, collaborate, or talk about deve
 
 ⭐ Thanks for visiting my portfolio!
 
-Built by ## NdevX ##
+Built by NdevX
